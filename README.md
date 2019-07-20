@@ -1,6 +1,6 @@
 # Video Moment Retrieval via Spatial and Language-Temporal Tensor Fusion Network
 
-To well align the given textual query and the video moment candidates, we devise a spatial and language-temporal attention model to adaptively identify the relevant objects and interactions based on the query information.
+To well align the given textual query and the video moment candidates, we devise a Spatial and Language-Temporal Tensor Fusion Network to adaptively identify the relevant objects and interactions based on the query information.
 
 ## Environment Settings
 We use the framework tensorflow. 
@@ -9,10 +9,10 @@ We use the framework tensorflow.
 
 ## Example to run the codes.
 
-Run SLTA:
+Run SLTF:
 
 ```
-SLTA.ipynb
+SLTF.ipynb
 ```
 
 After training process, the value of "R@n, IoU=m" in the test dataset will be printed in command window after each optimization iteration.
