@@ -30,7 +30,7 @@ IoU=0.9, R@10: 0.0389874890893; IoU=0.9, R@5: 0.0328775094559; IoU=0.9, R@1: 0.0
 
 ## Parameter Tuning
 
-we put all the papameters in the SLTA.ipynb
+we put all the papameters in the SLTF.ipynb
 
 ## Dataset
 
