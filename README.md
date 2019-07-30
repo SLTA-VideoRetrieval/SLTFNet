@@ -1,6 +1,6 @@
-# Video Moment Retrieval via Spatial and Language-Temporal Tensor Fusion Network
+# SLTFNet: A Spatial and Language-Temporal Tensor Fusion Network for Video Moment Retrieval
 
-To well align the given textual query and the video moment candidates, we devise a Spatial and Language-Temporal Tensor Fusion Network to adaptively identify the relevant objects and interactions based on the query information.
+To well align the given textual query and the video moment candidates, we devise a spatial and language-temporal tensor fusion model to adaptively identify the relevant objects and interactions based on the query information.
 
 ## Environment Settings
 We use the framework tensorflow. 
